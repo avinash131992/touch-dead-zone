@@ -1,8 +1,0 @@
-{
-  "name": "Dead Zone Overlay Simulator",
-  "description": "An interactive screen simulator and comprehensive Android Kotlin code generator for creating a movable, resizable touchscreen dead zone overlay that blocks unwanted touches.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
