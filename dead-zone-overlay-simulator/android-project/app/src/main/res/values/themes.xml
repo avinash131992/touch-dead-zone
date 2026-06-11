@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme targeting modern Dark Material design -->
+    <style name="Theme.DeadZoneOverlay" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#3B82F6</item>
+        <item name="android:statusBarColor">#111827</item>
+        <item name="android:windowBackground">#111827</item>
+    </style>
+</resources>
